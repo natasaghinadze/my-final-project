@@ -1,0 +1,116 @@
+.logo{
+    max-width: 133px;
+    margin-left: 85px;
+}
+.logonavigation{
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: beige;
+    position: fixed;
+    z-index: 10;
+}
+.nav-ul{
+    display: flex;
+    margin-left: 726px;
+}
+.nav-li{
+    display: flex;
+    margin-left: 50px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.nav-li a{
+    color: #303134;
+}
+.nav-li a:hover{
+    color: rgb(43, 109, 43);
+}
+.maincontact{
+    max-width: 1500px;
+    width: 100%;
+    display: flex;
+}
+.leftblock{
+    max-width: 600px;
+    width: 100%;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.rightblock{
+    max-width: 800px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.rightblock h2{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.rightblock p{
+    font-family: 'ALK Sanet';
+    color: #545457;
+}
+.miniright input, textarea{
+       margin-top: 15px;
+}
+input{
+    max-width: 240px;
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+input:focus{
+    outline: none;
+}
+textarea:focus{
+    outline: none;
+}
+textarea{
+    max-width: 240px;
+    width: 100%;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+.info{
+    margin-top: 35px;
+}
+.minibox{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.foot-er{
+    max-width: 100%;
+    width: 100%;
+    margin-top: 250px;
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.information1{
+    max-width: 250px;
+    width: 100%;
+    height: 150px;
+}
+.information1 h4{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.information2 h4{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.information2{
+    max-width: 250px;
+    width: 100%;
+}
+.info{
+    margin-bottom: 15px;
+}
+.info a{
+    color: black;
+}
+.fas{
+    margin-right: 10px;
+}
+
