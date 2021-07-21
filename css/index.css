@@ -1,0 +1,208 @@
+.logo{
+    max-width: 133px;
+    margin-left: 85px;
+}
+.logonavigation{
+  max-width: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: beige;
+  position: fixed;
+  z-index: 10;
+}
+.nav-ul{
+    display: flex;
+    margin-left: 726px;
+}
+.nav-li{
+    display: flex;
+    margin-left: 50px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.nav-li a{
+    color: #303134;
+}
+.nav-li a:hover{
+    color: rgb(43, 109, 43);
+}
+.carousel-item img{
+    max-width: 100%;
+    width: 100%;
+    height: 700px;
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 1450px;
+    width: 100%;
+    margin-top: 75px;
+}
+.textbox{
+    max-width: 241px;
+    width: 100%;
+}
+.textbox h2{
+    color: #1A1A1B;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.textbox p{
+    font-family: 'ALK Sanet';
+    color: #6b6fa1;
+}
+.h4tag:hover{
+    font-size: 22px;
+    cursor: pointer;
+}
+.h4tag{
+    margin-top: 15px;
+}
+.one{
+    max-width: 270px;
+    width: 100%;
+    height: 327px;
+    margin-left: 70px;
+}
+.one img:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.one h4{
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.two h4{
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.three h4{
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.spantag{
+    font-family: 'ALK Sanet';
+    color: #616377;
+}
+.hotelimg{
+    max-width: 268.97px;
+    width: 100%;
+    height: 181px
+}
+.hotelimg:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.two{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 50px;
+}
+.three img{
+    max-width: 270px;
+    width: 100%;
+    height: 181px;
+}
+.three img:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.three{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 50px;
+}
+.container2{
+    max-width: 1450px;
+    width: 100%;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.box1{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 49px;
+}
+.box1 img:hover{
+    width: 300px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.box2{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 50px;
+}
+.box2 img:hover{
+    width: 300px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.box3{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 50px;
+}
+.box3 img:hover{
+    width: 300px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.box1 h4{
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+    cursor: pointer;
+}
+.box2 h4{
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+    cursor: pointer;
+}
+.box3 h4{
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+    cursor: pointer;
+}
+.atag{
+    max-width: 267px;
+}
+.atag a{
+    color: #1A1A1B;
+    font-family: 'BPG Nino Mtavruli Bold';
+    font-size: 20px;
+}
+.foot-er{
+    max-width: 100%;
+    width: 100%;
+    margin-top: 250px;
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.information1{
+    max-width: 250px;
+    width: 100%;
+    height: 150px;
+}
+.information2{
+    max-width: 250px;
+    width: 100%;
+}
+.info{
+    margin-bottom: 10px;
+}
+.info a{
+    color: black;
+}
+.fas{
+    margin-right: 10px;
+}
