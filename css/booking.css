@@ -1,0 +1,124 @@
+.logo{
+    max-width: 133px;
+    margin-left: 85px;
+}
+.logonavigation{
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: beige;
+    position: fixed;
+    z-index: 10;
+}
+.nav-ul{
+    display: flex;
+    margin-left: 726px;
+}
+.nav-li{
+    display: flex;
+    margin-left: 50px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.nav-li a{
+    color: #303134;
+}
+.nav-li a:hover{
+    color: rgb(43, 109, 43);
+}
+.cover-plane{
+    max-width: 100%;
+    width: 100%;
+    margin-top: 80px;
+}
+.main{
+    max-width: 1100px;
+    max-width: 100%;
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.why{
+    max-width: 500px;
+    max-width: 100%;
+    margin-left: 35px;
+}
+.why h2{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.why p{
+    font-family: 'ALK Sanet';
+    color: #6b6fa1;
+    font-size: 15px;
+}
+.operator{
+    max-width: 500px;
+    width: 100%;
+    margin-left: 70px;
+}
+.main2{
+    max-width: 1500px;
+    width: 100%;
+    margin-top: 75px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.fly{
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin-top: 30px;
+}
+.other img{
+    max-width: 400px;
+    width: 100%;
+}
+.fly span{
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+    
+}
+.f{
+    margin-left: 70px;
+    font-family: 'BPG Nino Mtavruli Bold';
+} 
+.foot-er{
+    max-width: 100%;
+    width: 100%;
+    margin-top: 250px;
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.information1{
+    max-width: 250px;
+    width: 100%;
+    height: 150px;
+}
+.information1 h4{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.information2 h4{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.information2{
+    max-width: 250px;
+    width: 100%;
+}
+.info{
+    margin-bottom: 15px;
+}
+.info a{
+    color: black;
+}
+.fas{
+    margin-right: 10px;
+}
+
+
+
