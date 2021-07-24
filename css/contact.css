@@ -44,6 +44,7 @@
 }
 .rightblock h2{
     font-family: 'BPG Nino Mtavruli Bold';
+    text-shadow: 1px 1px 3px #000000;
 }
 .rightblock p{
     font-family: 'ALK Sanet';
