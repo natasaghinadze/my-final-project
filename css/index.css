@@ -47,6 +47,7 @@
 .textbox h2{
     color: #1A1A1B;
     font-family: 'BPG Nino Mtavruli Bold';
+    text-shadow: 0 0 2px #1b1a1a;
 }
 .textbox p{
     font-family: 'ALK Sanet';
@@ -178,6 +179,7 @@
     color: #1A1A1B;
     font-family: 'BPG Nino Mtavruli Bold';
     font-size: 20px;
+    text-shadow: 2px 2px 4px #21212e;
 }
 .foot-er{
     max-width: 100%;
