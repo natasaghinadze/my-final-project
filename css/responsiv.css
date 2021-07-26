@@ -1,0 +1,32 @@
+@media screen and (max-width:800px) {
+    .nav-li{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .container1, .container2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .one, .two, .three, .box1, .box2, .box3{
+        margin: 0;
+    }
+    .textbox, .one, .two, .three, .box1, .box2{
+        margin-bottom: 60px;
+    }
+    .textbox{
+        max-width: 270px;
+        width: 100%;
+    }
+
+}
+@media screen and(max-width:500px) {
+    .d-block{
+        height: 40vh;
+    }
+}
