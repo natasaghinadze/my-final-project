@@ -1,9 +1,0 @@
-@media(max-width:800px){
-    .nav-li{
-        display: none;
-    }
-    .burger{
-        display: block;
-    }
-
-}
