@@ -25,8 +25,13 @@
     }
 
 }
-@media screen and(max-width:500px) {
+@media screen and (max-width:500px) {
     .d-block{
         height: 40vh;
+    }
+}
+@media screen and (max-width:1200px){
+    .h4text{
+        text-align: center;
     }
 }
