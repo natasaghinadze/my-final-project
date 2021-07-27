@@ -6,7 +6,6 @@
         display: block;
     }
 }
-
 @media screen and (max-width:1226px) {
     .container1, .container2{
         display: flex;
@@ -23,7 +22,15 @@
         max-width: 270px;
         width: 100%;
     }
-
+    .maincontact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .connect{
+        text-align: center;
+        font-size: 30px;
+    }
 }
 @media screen and (max-width:500px) {
     .d-block{
