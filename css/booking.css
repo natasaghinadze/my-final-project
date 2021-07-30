@@ -17,26 +17,27 @@
     z-index: 10;
 }
 .burger{
-    display: flex;
+    /* display: flex; */
     display: none;
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
     color: #000;
     font-size: 30px;
-    margin-left: 30px;
-    margin-bottom: 22px;
+    position: absolute;
+    margin-left: 750px;
+    /* margin-bottom: 22px; */
 }
-.nav-ul{
+.navbar-ul{
     display: flex;
 }
-.nav-li{
+.naviganionnn li{
     display: flex;
     margin-left: 50px;
     font-family: 'BPG Nino Mtavruli Bold';
 }
-.nav-li a{
+.naviganionnn li a{
     color: #303134;
 }
-.nav-li a:hover{
+.naviganionnn li a:hover{
     color: rgb(43, 109, 43);
 }
 .cover-plane{

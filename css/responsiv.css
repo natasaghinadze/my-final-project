@@ -1,8 +1,18 @@
 @media screen and (max-width:800px) {
-    .nav-li{
+    .naviganionnn li{
         display: none;
     }
     .burger{
+        display: block;
+    }
+    /* .logonavigation{
+        flex-direction: column;
+    } */
+    .navbar-ul{
+        flex-direction: column;
+        margin-right: 150px;
+    }
+    .naviganionnn.on{
         display: block;
     }
 }
