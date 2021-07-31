@@ -3,28 +3,23 @@
     margin-left: 85px;
 }
 .animate__animated{
-    display: inline-block;
-    animation: backInDown; 
+  display: inline-block;
+  animation: backInDown; 
 }
 .logonavigation{
-    max-width: 100%;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: beige;
-    position: fixed;
-    z-index: 10;
+  max-width: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: beige;
+  position: fixed;
+  z-index: 10;
 }
 .burger{
-    /* display: flex; */
     display: none;
-    /* justify-content: flex-end; */
     color: #000;
     font-size: 30px;
     position: absolute;
-    margin-left: 750px;
-    /* margin-bottom: 22px; */
 }
 .navbar-ul{
     display: flex;
@@ -36,6 +31,7 @@
 }
 .naviganionnn li a{
     color: #303134;
+    margin-top: 20px;
 }
 .naviganionnn li a:hover{
     color: rgb(43, 109, 43);
@@ -95,30 +91,6 @@ textarea{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-/* .foot-er{
-    max-width: 100%;
-    width: 100%;
-    margin-top: 250px;
-    background-color: beige;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-.information1{
-    max-width: 250px;
-    width: 100%;
-    height: 150px;
-}
-.information1 h4{
-    font-family: 'BPG Nino Mtavruli Bold';
-}
-.information2 h4{
-    font-family: 'BPG Nino Mtavruli Bold';
-}
-.information2{
-    max-width: 250px;
-    width: 100%;
-} */
 .info{
     margin-bottom: 15px;
 }

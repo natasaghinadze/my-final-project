@@ -11,20 +11,15 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
   background-color: beige;
   position: fixed;
   z-index: 10;
 }
 .burger{
-    /* display: flex; */
     display: none;
-    /* justify-content: flex-end; */
     color: #000;
     font-size: 30px;
     position: absolute;
-    margin-left: 750px;
-    /* margin-bottom: 22px; */
 }
 .navbar-ul{
     display: flex;

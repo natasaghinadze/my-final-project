@@ -1,6 +1,9 @@
-let naviganionnn = document.getElementById('allnav')
-let burger = document.getElementById('burger-bar')
-
-burger.addEventListener('click', function() {
-    naviganionnn.classList.toggle('on');
+var burg = document.querySelector(".fa-bars")
+burg.addEventListener("click",function(){
+    var z = document.querySelector(".naviganionnn") 
+    if(z.style.display==="block"){
+        z.style.display="none"
+        
+    }
+    else{z.style.display="block"}
 })
