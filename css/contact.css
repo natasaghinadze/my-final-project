@@ -4,13 +4,18 @@
 }
 .animate__animated{
   display: inline-block;
-  animation: backInDown; 
+  -webkit-animation: backInDown;
+          animation: backInDown; 
 }
 .logonavigation{
   max-width: 100%;
   width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   background-color: beige;
   position: fixed;
   z-index: 10;
@@ -24,9 +29,13 @@
     top: 0;
 }
 .navbar-ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
 }
 .naviganionnn li{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     margin-left: 50px;
     font-family: 'BPG Nino Mtavruli Bold';
@@ -41,6 +50,8 @@
 .maincontact{
     max-width: 1500px;
     width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
 }
 .leftblock{
@@ -89,9 +100,14 @@ textarea{
 }
 .minibox{
     margin-top: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
 }
 .info{
     margin-bottom: 15px;
@@ -102,4 +118,3 @@ textarea{
 .fas{
     margin-right: 10px;
 }
-
