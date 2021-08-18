@@ -69,6 +69,14 @@
     .d-block{
         height: 40vh;
     }
+    .mainmap{
+        max-width: 450px;
+        width: 100%;
+    }
+    .petag{
+        width: 350px;
+        align-items: center;
+    }
 }
 @media screen and (max-width:1200px){
     .h4text{

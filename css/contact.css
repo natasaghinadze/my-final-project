@@ -73,6 +73,13 @@
     font-family: 'ALK Sanet';
     color: #545457;
 }
+.miniright{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 .miniright input, textarea{
        margin-top: 15px;
 }
